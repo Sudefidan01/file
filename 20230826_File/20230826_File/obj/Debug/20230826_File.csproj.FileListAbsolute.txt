@@ -1,0 +1,8 @@
+C:\Users\pcc\source\repos\20230826_File\20230826_File\bin\Debug\20230826_File.exe.config
+C:\Users\pcc\source\repos\20230826_File\20230826_File\bin\Debug\20230826_File.exe
+C:\Users\pcc\source\repos\20230826_File\20230826_File\bin\Debug\20230826_File.pdb
+C:\Users\pcc\source\repos\20230826_File\20230826_File\obj\Debug\20230826_File.csproj.AssemblyReference.cache
+C:\Users\pcc\source\repos\20230826_File\20230826_File\obj\Debug\20230826_File.csproj.SuggestedBindingRedirects.cache
+C:\Users\pcc\source\repos\20230826_File\20230826_File\obj\Debug\20230826_File.csproj.CoreCompileInputs.cache
+C:\Users\pcc\source\repos\20230826_File\20230826_File\obj\Debug\20230826_File.exe
+C:\Users\pcc\source\repos\20230826_File\20230826_File\obj\Debug\20230826_File.pdb
